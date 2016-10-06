@@ -2,7 +2,7 @@
 title: SIPP
 date: 2016-10-05 15:12:00 Z
 Author: Nick Pleydell-Pearce
-Subtitle: Test Subtitle
+subtitle: Test Subtitle
 ---
 
 # SIPP

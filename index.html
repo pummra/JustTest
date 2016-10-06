@@ -1,23 +1,36 @@
 ---
 layout: default
+class: homepage
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
+<section class="latest-posts">
+  <h1>Latest Posts</h1>
+  <ul>
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span>{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        <p> {{post.subtitle}}</p>
       </li>
     {% endfor %}
   </ul>
+</section>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+{% for my_page in site.pages %}
+  {% if my_page.title == "About" %}
+<section class="about">
+  <div class="wrapper">
+    <div class="left">
+      <h1>About</h1>
+      {{ my_page.content | markdownify}}
+    </div>
+    <div class="right">
+      <span class="big-dot">
+    </div>
+  </div>
+</section>
+  {% endif %}
+{% endfor %}

@@ -1,0 +1,60 @@
+@font-face {
+    font-family: "Just Sans";
+    src:     url("../fonts/JustSansWeb-Regular.eot?#iefix");
+    src: url("../fonts/JustSansWeb-Regular.eot?#iefix") format("eot"),
+         url("../fonts/JustSansWeb-Regular.woff2") format("woff2"),
+         url("../fonts/JustSansWeb-Regular.woff") format("woff"),
+         url("../fonts/JustSansWeb-Regular.ttf") format("truetype"),
+         url("../fonts/JustSansWeb-Regular.svg") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Just Sans";
+    src:     url("../fonts/JustSansWeb-Italic.eot?#iefix");
+    src: url("../fonts/JustSansWeb-Italic.eot?#iefix") format("eot"),
+         url("../fonts/JustSansWeb-Italic.woff2") format("woff2"),
+         url("../fonts/JustSansWeb-Italic.woff") format("woff"),
+         url("../fonts/JustSansWeb-Italic.ttf") format("truetype"),
+         url("../fonts/JustSansWeb-Italic.svg") format("svg");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Just Sans";
+    src:     url("../fonts/JustSansWeb-BoldItalic.eot?#iefix");
+    src: url("../fonts/JustSansWeb-BoldItalic.eot?#iefix") format("eot"),
+         url("../fonts/JustSansWeb-BoldItalic.woff2") format("woff2"),
+         url("../fonts/JustSansWeb-BoldItalic.woff") format("woff"),
+         url("../fonts/JustSansWeb-BoldItalic.ttf") format("truetype"),
+         url("../fonts/JustSansWeb-BoldItalic.svg") format("svg");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Just Sans";
+    src:     url("../fonts/JustSansWeb-Bold.eot?#iefix");
+    src: url("../fonts/JustSansWeb-Bold.eot?#iefix") format("eot"),
+         url("../fonts/JustSansWeb-Bold.woff2") format("woff2"),
+         url("../fonts/JustSansWeb-Bold.woff") format("woff"),
+         url("../fonts/JustSansWeb-Bold.ttf") format("truetype"),
+         url("../fonts/JustSansWeb-Bold.svg") format("svg");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Just Script";
+    src:     url("../fonts/JustScriptWeb-Regular.eot?#iefix");
+    src: url("../fonts/JustScriptWeb-Regular.eot?#iefix") format("eot"),
+         url("../fonts/JustScriptWeb-Regular.woff2") format("woff2"),
+         url("../fonts/JustScriptWeb-Regular.woff") format("woff"),
+         url("../fonts/JustScriptWeb-Regular.ttf") format("truetype"),
+         url("../fonts/JustScriptWeb-Regular.svg") format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+

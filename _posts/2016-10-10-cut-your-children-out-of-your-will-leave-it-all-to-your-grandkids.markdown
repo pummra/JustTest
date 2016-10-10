@@ -11,7 +11,6 @@ Author: Siobhán Woodrow
 
 ![1\*GnPfkMtq5TyVbmWpzVhkxQ.jpeg](https://manage.siteleaf.com/api/v2/sites/57f4e8129be5f50b4116f6b6/source/_uploads/1\*GnPfkMtq5TyVbmWpzVhkxQ.jpeg?download)
 
-# Cut your children out of your will: leave it all to your grandkids
 ## The new government advice is for people to help their grandchildren onto the housing ladder by leaving inheritance to them.
 
 Duis porttitor elit vitae accumsan ultricies. Donec dapibus sapien ut est cursus, nec vestibulum felis tristique. Aliquam erat volutpat. Nunc nec luctus quam. Ut ut porttitor urna. Ut aliquet turpis ac dui gravida dapibus. Nam maximus molestie ipsum non dignissim. Sed tincidunt nisl justo, nec congue libero semper a. Donec at tempus ipsum. Cras quis ipsum ut metus tristique ullamcorper. Maecenas ut metus elit. Nunc a hendrerit ligula.

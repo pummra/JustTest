@@ -1,6 +1,8 @@
 ---
 title: Why are so many 50 year old women abandoning everything and starting again?
 date: 2016-10-10 10:49:00 Z
+categories:
+- 7 Days A Week
 tags:
 - 7 Days A Week
 - Retirement

@@ -2,7 +2,8 @@
 title: SIPP
 date: 2016-10-05 15:12:00 Z
 Author: Nick Pleydell-Pearce
-subtitle: Test Subtitle
+subtitle: DE ACUERDO. SIPP es sólo un nombre de fantasía pantalones para una pensión
+  de bricolaje. Es sinónimo de “auto invertido pensión personal.”
 ---
 
 # SIPP

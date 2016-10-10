@@ -9,7 +9,7 @@ tags:
 - Women
 - Live well
 AUTHOR: Rhodes
-Subtitle: Many women who have spent their lives raising a family and being a good
+subtitle: Many women who have spent their lives raising a family and being a good
   wife, as well as working hard at their own careers, now feel an urge to rediscover
   youthful passions
 ---

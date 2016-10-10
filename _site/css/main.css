@@ -642,3 +642,5 @@ article.post {
       margin-right: 0; }
     article.post div.post-content p {
       margin-bottom: 20px; }
+      article.post div.post-content p img {
+        width: 100%; }

@@ -377,8 +377,42 @@ h2 {
 
 a {
   text-decoration: none; }
+  a img {
+    cursor: pointer; }
   a:hover {
     text-decoration: underline; }
+
+.post section.head {
+  background: #FF7D7D;
+  padding-bottom: 30px; }
+  .post section.head .logo {
+    background: url("../images/JUST_logo_Ver2_RGB_Charcoal_on_White.svg") no-repeat;
+    text-indent: -9999px;
+    display: block;
+    height: 65px;
+    width: 151.8px; }
+  .post section.head .post-info {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 65.8807828007%;
+    margin-left: 17.0596085997%; }
+    .post section.head .post-info:last-child {
+      margin-right: 0; }
+    .post section.head .post-info h1 {
+      font-size: 80px;
+      line-height: 80px;
+      width: 100%;
+      margin: 0 0 30px 0;
+      padding: 0; }
+    .post section.head .post-info p {
+      font-size: 30px;
+      font-weight: 700;
+      margin: 0 0 30px 0; }
+    .post section.head .post-info p.date {
+      font-size: 15px;
+      font-family: "Roboto Mono";
+      margin: 60px 0 0 0; }
 
 section.head {
   background: #FF7D7D url("../images/header.png") top left no-repeat;
@@ -403,7 +437,7 @@ section.head {
         line-height: 65px;
         text-transform: uppercase;
         color: #fff;
-        margin-right: 40px; }
+        margin-right: 50px; }
       section.head header nav img {
         height: 100%; }
     section.head header h1 {
@@ -453,7 +487,8 @@ section.latest-posts {
         line-height: 24px; }
 
 section.about {
-  background: #21C7EB; }
+  background: #21C7EB;
+  margin-top: 85px; }
   section.about div.wrapper {
     max-width: 68em;
     margin-left: auto;
@@ -493,16 +528,117 @@ section.footer {
   section.footer footer {
     max-width: 68em;
     margin-left: auto;
-    margin-right: auto; }
+    margin-right: auto;
+    font-family: "Just Script";
+    font-size: 30px;
+    color: #fff;
+    text-align: center; }
     section.footer footer::after {
       clear: both;
       content: "";
       display: table; }
-    section.footer footer div {
+    section.footer footer div.wrapper {
       float: left;
       display: block;
       margin-right: 2.3576515979%;
       width: 65.8807828007%;
       margin-left: 17.0596085997%; }
-      section.footer footer div:last-child {
+      section.footer footer div.wrapper:last-child {
         margin-right: 0; }
+      section.footer footer div.wrapper a {
+        font-family: "Just Sans";
+        font-weight: 700;
+        color: #000; }
+      section.footer footer div.wrapper ul {
+        margin-bottom: 0px; }
+        section.footer footer div.wrapper ul li {
+          display: inline-block;
+          width: 100px;
+          height: 100px;
+          text-indent: -9999px;
+          margin-right: 57px;
+          margin-bottom: 126px; }
+          section.footer footer div.wrapper ul li a {
+            display: block;
+            width: 100px;
+            height: 100px; }
+            section.footer footer div.wrapper ul li a.twitter {
+              background: url("../images/twitter.png") no-repeat; }
+            section.footer footer div.wrapper ul li a.medium {
+              background: url("../images/medium.png") no-repeat; }
+            section.footer footer div.wrapper ul li a.facebook {
+              background: url("../images/facebook.png") no-repeat; }
+            section.footer footer div.wrapper ul li a.youtube {
+              background: url("../images/youtube.png") no-repeat; }
+      section.footer footer div.wrapper div.form {
+        width: 100%; }
+        section.footer footer div.wrapper div.form::after {
+          clear: both;
+          content: "";
+          display: table; }
+        section.footer footer div.wrapper div.form input {
+          border: 5px solid #373433;
+          background-color: #FF7D7D;
+          height: 100px;
+          font-size: 2.2vw;
+          font-family: "Just Sans";
+          border-top-left-radius: 5px;
+          border-top-right-radius: 5px;
+          border-bottom-right-radius: 5px;
+          border-top-right-radius: 5px;
+          border-bottom-left-radius: 5px;
+          border-bottom-right-radius: 5px;
+          border-bottom-left-radius: 5px;
+          border-top-left-radius: 5px; }
+          section.footer footer div.wrapper div.form input[type="text"] {
+            padding-left: 30px;
+            border-right: 0;
+            border-bottom-right-radius: 0px;
+            border-top-right-radius: 0px;
+            font-weight: 700;
+            float: left;
+            display: block;
+            margin-right: 2.3576515979%;
+            width: 74.4105871005%;
+            margin-right: 0; }
+            section.footer footer div.wrapper div.form input[type="text"]:last-child {
+              margin-right: 0; }
+            section.footer footer div.wrapper div.form input[type="text"]::-webkit-input-placeholder {
+              color: #fff; }
+            section.footer footer div.wrapper div.form input[type="text"]::-moz-placeholder {
+              color: #fff; }
+            section.footer footer div.wrapper div.form input[type="text"]:-moz-placeholder {
+              color: #fff; }
+            section.footer footer div.wrapper div.form input[type="text"]:-ms-input-placeholder {
+              color: #fff; }
+          section.footer footer div.wrapper div.form input[type="submit"] {
+            font-family: "Roboto Mono";
+            margin-left: 0;
+            border-bottom-left-radius: 0px;
+            border-top-left-radius: 0px;
+            float: left;
+            display: block;
+            margin-right: 2.3576515979%;
+            width: 23.2317613015%; }
+            section.footer footer div.wrapper div.form input[type="submit"]:last-child {
+              margin-right: 0; }
+
+article.post {
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  article.post::after {
+    clear: both;
+    content: "";
+    display: table; }
+  article.post div.post-content {
+    float: left;
+    display: block;
+    margin-right: 2.3576515979%;
+    width: 57.3509785009%;
+    margin-left: 17.0596085997%;
+    font-size: 20px; }
+    article.post div.post-content:last-child {
+      margin-right: 0; }
+    article.post div.post-content p {
+      margin-bottom: 20px; }

@@ -12,9 +12,11 @@
       {% if page.layout == 'default' %} 
         <h1>The Future is&nbsp;here.</h1>
       {% elsif page.layout == 'post' %}
-        <p>{{ page.date | date: "%b %-d, %Y" }}</p>
-        <h1>{{page.title}}</h1>
-        <p>{{page.subtitle}}</p>
+        <div class="post-info">
+          <p class="date">{{ page.date | date: "%b %-d, %Y" }}</p>
+          <h1>{{page.title}}</h1>
+          <p>{{page.subtitle}}</p>
+        </div>
       {% endif %}
   </header>
 </section>

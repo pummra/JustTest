@@ -176,13 +176,57 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/images\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3287,
+		"inputAbbreviatedPath": "\/_site\/images\/facebook.png",
+		"outputAbbreviatedPath": "\/_site\/images\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/images\/header.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.0012e+06,
+		"initialSize": 1.91718e+06,
 		"inputAbbreviatedPath": "\/_site\/images\/header.png",
 		"outputAbbreviatedPath": "\/_site\/images\/header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/medium.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4488,
+		"inputAbbreviatedPath": "\/_site\/images\/medium.png",
+		"outputAbbreviatedPath": "\/_site\/images\/medium.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4316,
+		"inputAbbreviatedPath": "\/_site\/images\/twitter.png",
+		"outputAbbreviatedPath": "\/_site\/images\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/images\/youtube.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3547,
+		"inputAbbreviatedPath": "\/_site\/images\/youtube.png",
+		"outputAbbreviatedPath": "\/_site\/images\/youtube.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -333,6 +377,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/facebook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3287,
+		"inputAbbreviatedPath": "\/images\/facebook.png",
+		"outputAbbreviatedPath": "\/images\/facebook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/header.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -340,6 +395,39 @@
 		"initialSize": 3.47454e+06,
 		"inputAbbreviatedPath": "\/images\/header.png",
 		"outputAbbreviatedPath": "\/images\/header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/medium.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4488,
+		"inputAbbreviatedPath": "\/images\/medium.png",
+		"outputAbbreviatedPath": "\/images\/medium.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/twitter.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4316,
+		"inputAbbreviatedPath": "\/images\/twitter.png",
+		"outputAbbreviatedPath": "\/images\/twitter.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/youtube.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3547,
+		"inputAbbreviatedPath": "\/images\/youtube.png",
+		"outputAbbreviatedPath": "\/images\/youtube.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -18,8 +18,48 @@ h2 {
 
 a {
 	text-decoration: none;
+	img {
+		cursor: pointer;
+	}
 	&:hover {
 		text-decoration: underline;
+	}
+}
+
+.post section.head {
+	background: #FF7D7D;
+	padding-bottom: 30px;
+
+	.logo {
+		background: url("../images/JUST_logo_Ver2_RGB_Charcoal_on_White.svg") no-repeat;
+		text-indent: -9999px;
+		display: block;
+		height: 65px;
+		width: 151.8px;
+	}
+
+	.post-info {
+		@include span-columns(8);
+		@include shift(2);
+		h1 {
+			font-size: 80px;
+			line-height: 80px;
+			@include fill-parent;
+			margin: 0 0 30px 0;
+			padding: 0;
+		}
+
+		p {
+			font-size: 30px;
+			font-weight: 700;
+			margin: 0 0 30px 0;
+		}
+
+		p.date {
+			font-size: 15px;
+			font-family: "Roboto Mono";
+			margin: 60px 0 0 0;
+		}
 	}
 }
 
@@ -40,7 +80,7 @@ section.head {
 				line-height: 65px;
 				text-transform: uppercase;
 				color: #fff;
-				margin-right: 40px;
+				margin-right: 50px;
 			}
 
 			img {
@@ -97,6 +137,7 @@ section.latest-posts {
 
 section.about {
 	background: #21C7EB;
+	margin-top: 85px;
 	div.wrapper {
 		@include outer-container();
 		div.left {
@@ -126,9 +167,94 @@ section.footer {
 	background: #FF7D7D;
 	footer {
 		@include outer-container();
-		div {
+		font-family: "Just Script";
+		font-size: 30px;
+		color: #fff;
+		text-align: center;
+		div.wrapper {
 			@include span-columns(8);
 			@include shift(2);
+
+			a {
+				font-family: "Just Sans";
+				font-weight: 700;
+				color: #000;
+			}
+
+			ul {
+				margin-bottom: 0px;
+				li {
+					display: inline-block;
+					width: 100px;
+					height: 100px;
+					text-indent: -9999px;
+					margin-right: 57px;
+					margin-bottom: 126px;
+					a {
+						display: block;
+						width: 100px;
+						height: 100px;
+						&.twitter {
+							background: url("../images/twitter.png") no-repeat;
+						}
+						&.medium {
+							background: url("../images/medium.png") no-repeat;
+						}
+						&.facebook {
+							background: url("../images/facebook.png") no-repeat;
+						}
+						&.youtube {
+							background: url("../images/youtube.png") no-repeat;
+						}
+					}
+				}
+			}
+
+			div.form {
+				@include fill-parent();
+				@include clearfix;
+				input {
+					border: 5px solid #373433;
+					background-color: #FF7D7D;
+					height: 100px;
+					font-size: 2.2vw;
+					font-family: "Just Sans";
+					@include border-top-radius(5px);
+					@include border-right-radius(5px);
+					@include border-bottom-radius(5px);
+					@include border-left-radius(5px);
+					&[type="text"] {
+						padding-left: 30px;
+						border-right: 0;
+						@include border-right-radius(0px);
+						font-weight: 700;
+						@include span-columns(9);
+						margin-right: 0;
+						@include placeholder {
+							color: #fff;						
+						}
+					}
+					&[type="submit"] {
+						font-family: "Roboto Mono";
+						margin-left: 0;
+						@include border-left-radius(0px);
+						@include span-columns(3);
+
+					}				
+				}
+			}
+		}
+	}
+}
+
+article.post {
+	@include outer-container();
+	div.post-content {
+		@include span-columns(7);
+		@include shift(2);
+		font-size: 20px;
+		p {
+			margin-bottom: 20px;
 		}
 	}
 }

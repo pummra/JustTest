@@ -14,7 +14,7 @@ subtitle: Many women who have spent their lives raising a family and being a goo
   youthful passions
 ---
 
-![1\*3nnfJK4sA7_a5vzxs23ghw.jpeg](/api/v2/sites/57f4e8129be5f50b4116f6b6/source/_uploads/1\*3nnfJK4sA7_a5vzxs23ghw.jpeg?download)
+![photo-1462820943295-043986456d2b.jpeg](/uploads/photo-1462820943295-043986456d2b.jpeg)
 
 ## Many women who have spent their lives raising a family and being a good wife, as well as working hard at their own careers, now feel an urge to rediscover youthful passions
 

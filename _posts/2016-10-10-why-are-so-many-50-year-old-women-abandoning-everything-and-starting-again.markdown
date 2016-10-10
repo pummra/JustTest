@@ -13,8 +13,6 @@ AUTHOR: Rhodes
 
 ![1\*3nnfJK4sA7_a5vzxs23ghw.jpeg](/api/v2/sites/57f4e8129be5f50b4116f6b6/source/_uploads/1\*3nnfJK4sA7_a5vzxs23ghw.jpeg?download)
 
-# Why are so many 50 year old women abandoning everything and starting again?
-
 ## Many women who have spent their lives raising a family and being a good wife, as well as working hard at their own careers, now feel an urge to rediscover youthful passions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris massa turpis, condimentum at diam quis, scelerisque feugiat ante. Maecenas nulla nisi, eleifend viverra tempor a, tristique pulvinar risus. Maecenas elementum, quam non gravida mattis, felis massa venenatis elit, sit amet volutpat tellus sem id sapien. Praesent id eros malesuada, porttitor erat eu, efficitur orci. Mauris ultrices consequat elit, id imperdiet dui accumsan in. Praesent viverra porttitor commodo. Mauris hendrerit varius leo a efficitur. Nam neque tellus, efficitur in augue quis, consectetur mattis magna.

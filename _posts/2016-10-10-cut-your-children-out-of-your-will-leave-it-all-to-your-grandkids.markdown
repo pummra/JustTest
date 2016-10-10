@@ -9,7 +9,7 @@ tags:
 Author: Siobhán Woodrow
 ---
 
-![1\*GnPfkMtq5TyVbmWpzVhkxQ.jpeg](https://manage.siteleaf.com/api/v2/sites/57f4e8129be5f50b4116f6b6/source/_uploads/1\*GnPfkMtq5TyVbmWpzVhkxQ.jpeg?download)
+![1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg](/uploads/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg)
 
 ## The new government advice is for people to help their grandchildren onto the housing ladder by leaving inheritance to them.
 

@@ -1,6 +1,8 @@
 ---
 title: 'Cut your children out of your will: leave it all to your grandkids'
 date: 2016-10-10 10:53:00 Z
+categories:
+- Relationships
 tags:
 - Relationships
 - Money

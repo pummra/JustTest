@@ -240,6 +240,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/posts\/cut-your-children-out-of-your-will-leave-it-all-to-your-grandkids\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/posts\/cut-your-children-out-of-your-will-leave-it-all-to-your-grandkids\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/posts\/fasdf\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -258,6 +267,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/posts\/why-are-so-many-50-year-old-women-abandoning-everything-and-starting-again\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/posts\/why-are-so-many-50-year-old-women-abandoning-everything-and-starting-again\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/test\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -267,6 +285,39 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_site\/uploads\/1*3nnfJK4sA7_a5vzxs23ghw.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139016,
+		"inputAbbreviatedPath": "\/_site\/uploads\/1*3nnfJK4sA7_a5vzxs23ghw.jpeg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/1*3nnfJK4sA7_a5vzxs23ghw.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118408,
+		"inputAbbreviatedPath": "\/_site\/uploads\/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/uploads\/1*JdypzjUyzWlJkTzDb7HSxg.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92538,
+		"inputAbbreviatedPath": "\/_site\/uploads\/1*JdypzjUyzWlJkTzDb7HSxg.jpeg",
+		"outputAbbreviatedPath": "\/_site\/uploads\/1*JdypzjUyzWlJkTzDb7HSxg.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/uploads\/photo-1475045386676-a66b44a0ff45.jpeg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -274,6 +325,39 @@
 		"initialSize": 5.42563e+06,
 		"inputAbbreviatedPath": "\/_site\/uploads\/photo-1475045386676-a66b44a0ff45.jpeg",
 		"outputAbbreviatedPath": "\/_site\/uploads\/photo-1475045386676-a66b44a0ff45.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/1*3nnfJK4sA7_a5vzxs23ghw.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139016,
+		"inputAbbreviatedPath": "\/_uploads\/1*3nnfJK4sA7_a5vzxs23ghw.jpeg",
+		"outputAbbreviatedPath": "\/_uploads\/1*3nnfJK4sA7_a5vzxs23ghw.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118408,
+		"inputAbbreviatedPath": "\/_uploads\/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg",
+		"outputAbbreviatedPath": "\/_uploads\/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_uploads\/1*JdypzjUyzWlJkTzDb7HSxg.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92538,
+		"inputAbbreviatedPath": "\/_uploads\/1*JdypzjUyzWlJkTzDb7HSxg.jpeg",
+		"outputAbbreviatedPath": "\/_uploads\/1*JdypzjUyzWlJkTzDb7HSxg.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

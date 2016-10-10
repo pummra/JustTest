@@ -7,6 +7,8 @@ tags:
 - Relationships
 - Money
 Author: Siobhán Woodrow
+Subtitle: The new government advice is for people to help their grandchildren onto
+  the housing ladder by leaving inheritance to them.
 ---
 
 ![1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg](/uploads/1*GnPfkMtq5TyVbmWpzVhkxQ.jpeg)

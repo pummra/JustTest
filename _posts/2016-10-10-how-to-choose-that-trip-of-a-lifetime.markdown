@@ -1,7 +1,11 @@
 ---
 title: How to choose that trip of a lifetime
 date: 2016-10-10 13:02:00 Z
-Author: 
+tags:
+- 7 Days A Week
+- Travel
+- Live well
+Author: Rhodes
 subtitle: Every year the National Geographic Society have an annual roundup of the
   best guided trips and sustainable tours that reflect their mission to inspire, illuminate,
   and teach. They’re great inspiration when choosing a dream trip.

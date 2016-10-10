@@ -2,6 +2,9 @@
 title: Just Test
 timezone: UTC
 collections:
+  7-days-a-week:
+    title: 7 Days A Week
+    output: true
   posts:
     title: Posts
     output: true
